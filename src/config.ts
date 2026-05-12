@@ -5,7 +5,7 @@
 // const BASE_URL = "http://localhost:3000";
 
 // maxaaaaaa
-const BASE_URL = "https://192.168.1.111:3000";
+const BASE_URL = "http://192.168.1.111:3000";
 
 
 const ENDPOINTS = {
