@@ -2,10 +2,10 @@
 // const BASE_URL = "https://galleries-audit-subject-skirts.trycloudflare.com";
 // const BASE_URL = "http://100.91.163.77:3000";
 
-const BASE_URL = "http://localhost:3000";
+// const BASE_URL = "http://localhost:3000";
 
 // maxaaaaaa
-// const BASE_URL = "https://api-test-xi-one.vercel.app/";
+const BASE_URL = "https://api-test-xi-one.vercel.app";
 
 
 const ENDPOINTS = {
@@ -22,7 +22,7 @@ const ENDPOINTS = {
   UPLOAD: `${BASE_URL}/upload`,
   GETPROJECTIMAGES: `${BASE_URL}/project/images`,
   DELETEPROJECT: `${BASE_URL}/deleteProject`,
-  image_url: "http://100.91.163.77:3000/",
+  image_url: "http://192.168.1.111/",
   videos: `${BASE_URL}/videos`,
   IMAGE_URL: `${BASE_URL}/`,
   UPLOAD_VIDEO: `${BASE_URL}/upload/video`,
