@@ -5,7 +5,7 @@
 // const BASE_URL = "http://localhost:3000";
 
 // maxaaaaaa
-const BASE_URL = "https://api-test-xi-one.vercel.app";
+const BASE_URL = "https://192.168.1.111:3000";
 
 
 const ENDPOINTS = {
