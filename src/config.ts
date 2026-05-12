@@ -22,7 +22,7 @@ const ENDPOINTS = {
   UPLOAD: `${BASE_URL}/upload`,
   GETPROJECTIMAGES: `${BASE_URL}/project/images`,
   DELETEPROJECT: `${BASE_URL}/deleteProject`,
-  image_url: "https://displaying-epinions-diagnostic-merger.trycloudflare.com/",
+  image_url: "https://api-test-xi-one.vercel.app/",
   videos: `${BASE_URL}/videos`,
   IMAGE_URL: `${BASE_URL}/`,
   UPLOAD_VIDEO: `${BASE_URL}/upload/video`,
